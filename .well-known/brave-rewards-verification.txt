@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: blockpositive.com
+Token: 69f32ff5192777505ecd261ec8edb2b3ea4d2b059d7ca1e1d8c54f498d98e11b
